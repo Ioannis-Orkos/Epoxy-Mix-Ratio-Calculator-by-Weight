@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Epoxy Mix Ratio Calculator by Weight</string>
+
+    <string name="mix_screen">Mix</string>
+    <string name="resin_list_screen">Resins</string>
+    <string name="setting_screen">Setting</string>
+
+
+</resources>
